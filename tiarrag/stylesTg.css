@@ -4,10 +4,11 @@ body{
 }
 
 
-nav{
+ul{
     list-style: none;
     display: flex;
-    justify-items: center;
+    justify-content: space-around;
+
     
 }
 
