@@ -10,6 +10,9 @@ main {
 
 body {
   background-color: lightblue;
+  padding-top: 10vh;
+  padding-left: 30vw;
+  padding-right: 30vw;
 }
 
 .header-style{
