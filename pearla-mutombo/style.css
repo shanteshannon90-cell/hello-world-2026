@@ -54,9 +54,8 @@ picture div p{
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 45px;
-  background-color: forestgreen;
-  color: white;
+  height: 50px;
+  color: black;
 }
 
 /* h3 style */
