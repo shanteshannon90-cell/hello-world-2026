@@ -1,0 +1,46 @@
+h1 {
+  color: aqua;
+  font-family: "Arial", sans-serif;
+  text-align: center;
+  margin-top: 20px;
+}
+.images {
+  width: 35vh;
+  height: 35vh;
+}
+.image1 > img {
+  width: 95vh;
+  height: 75vh;
+  margin-left: 50vh;
+  margin-right: 50vh;
+}
+
+.images {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.container {
+  display: flex;
+  background: white;
+  padding: 15px;
+  border-radius: 12px;
+  justify-content: center;
+  gap: 5vh;
+}
+
+.container img {
+  width: 25vh;
+  height: 25vh;
+  border-radius: 8px;
+}
+.sources {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
